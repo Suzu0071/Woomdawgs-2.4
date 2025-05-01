@@ -1,4 +1,4 @@
-# Woomdawgs-2.
+# Woomdawgs-2.4
 
 Instructions can be found in `Setup.md`
 
