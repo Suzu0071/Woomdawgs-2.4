@@ -25,3 +25,12 @@ Wiring related is found [here](https://docs.ldomotors.com/en/voron/voron2).
 <img src="https://raw.githubusercontent.com/Suzu0071/Helper-Repository/refs/heads/main/Configs/drop-files.png" width=700px>
 
 Don't forget to change the `printer.cfg`.
+
+## Things to change/tune
++ MCU serials. (In `Main.cfg`)
++ Thermistor types, because idk what you have c:
+    + Extruder and bed in `Main.cfg`.
+    + Chamber in `Main.cfg`.
++ Probe Z offset. (In `Bed-Related.cfg`)
++ PID tune bed and hotend. (In `Main.cfg`)
++ Tune E-steps. (In `Main.cfg`)
