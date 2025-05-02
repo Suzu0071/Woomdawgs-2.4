@@ -1,4 +1,6 @@
 # Setup
+## Beacon
+Download beacon things from [here](https://docs.beacon3d.com/quickstart/).
 ## Wiring
 
 Wiring related is found [here](https://docs.ldomotors.com/en/voron/voron2).
