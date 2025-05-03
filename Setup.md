@@ -1,11 +1,12 @@
 # Setup
 ## Beacon
 Download beacon things from [here](https://docs.beacon3d.com/quickstart/).
+
+## KlipperScreen
+Download through kiauh, docs can be found [here](https://klipperscreen.readthedocs.io/en/latest/).
+
 ## Wiring
-
-Wiring related is found [here](https://docs.ldomotors.com/en/voron/voron2).
-
-+ The X stepper (on the left) goes into HV-Stepper0. Endstop goes to 
++ The X stepper (on the left) goes into HV-Stepper0.
 + The Y stepper (on the right) goes into HV-Stepper1.
 
 + Left front Z stepper goes to Stepper0.
