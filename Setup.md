@@ -19,7 +19,7 @@ Download through kiauh, docs can be found [here](https://klipperscreen.readthedo
 ## Config
 1. **Download repository as zip.**
 2. **Extract.**
-3. **In mainsail/fluidd create corresponding folders.**
+3. **In mainsail/fluidd create corresponding folders:** `Printer`
 
 <img src="https://raw.githubusercontent.com/Suzu0071/Helper-Repository/refs/heads/main/Configs/create-directory.png" width=500px>
 
@@ -34,6 +34,7 @@ Don't forget to change the `printer.cfg`.
 + Thermistor types, because idk what you have c:
     + Extruder and bed in `Main.cfg`.
     + Chamber in `Main.cfg`.
+    + You can get the types of thermisors from [here](https://docs.kalico.gg/Config_Reference.html#extruder).
 + Probe Z offset. (In `Bed-Related.cfg`)
 + PID tune bed and hotend. (In `Main.cfg`)
 + Tune E-steps. (In `Main.cfg`)
