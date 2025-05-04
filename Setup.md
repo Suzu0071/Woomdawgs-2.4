@@ -34,7 +34,7 @@ Don't forget to change the `printer.cfg`.
 + Thermistor types, because idk what you have c:
     + Extruder and bed in `Main.cfg`.
     + Chamber in `Main.cfg`.
-    + You can get the types of thermisors from [here](https://docs.kalico.gg/Config_Reference.html#extruder).
+    + You can get the types of thermisors from [here](https://www.klipper3d.org/Config_Reference.html#common-thermistors).
 + Probe Z offset. (In `Bed-Related.cfg`)
 + PID tune bed and hotend. (In `Main.cfg`)
 + Tune E-steps. (In `Main.cfg`)
